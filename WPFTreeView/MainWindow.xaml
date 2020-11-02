@@ -6,7 +6,14 @@
         xmlns:local="clr-namespace:WPFTreeView"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel >
+        <TreeView x:Name="FolderView">
+            <TreeView.Resources>
+                <Style TargetType="{x:Type TreeViewItem}">
+                    
+                </Style>
+            </TreeView.Resources>
+        </TreeView>
         
-    </Grid>
+    </StackPanel>
 </Window>
