@@ -168,7 +168,6 @@ namespace WPFTreeView
             //return the name after last back slash
             return Path.Substring(lastIndex + 1);
 
-
         }
     }
 }

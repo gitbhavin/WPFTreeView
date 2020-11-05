@@ -16,3 +16,4 @@ C:\Users\bhavi\Desktop\Bhavin\WPF\Practicing\AngleSIx\WPFTreeView\WPFTreeView\ob
 C:\Users\bhavi\Desktop\Bhavin\WPF\Practicing\AngleSIx\WPFTreeView\WPFTreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\bhavi\Desktop\Bhavin\WPF\Practicing\AngleSIx\WPFTreeView\WPFTreeView\obj\Debug\TreeViewWindowxaml.g.cs
 C:\Users\bhavi\Desktop\Bhavin\WPF\Practicing\AngleSIx\WPFTreeView\WPFTreeView\obj\Debug\TreeViewWindowxaml.baml
+C:\Users\bhavi\Desktop\Bhavin\WPF\Practicing\AngleSIx\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.csproj.Fody.CopyLocal.cache
